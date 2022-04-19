@@ -1,12 +1,12 @@
 ---
-title: "Mis expectativas"
+title: "La Cultura del desarollador de Software"
 date: 2022-02-21T18:16:21-06:00
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
-Mis Expectativas son:
+La cultura de desarrollador de software debe tener:
 
--Aprender Nuevos conocimeintos y aplicarlos
--Aprender concimiento para el ambito laboral
--Obtener nuevas perpectivas
--Crear proyectos de Back-End
+-Respeto
+-Confianza
+-Honestidad
+-Dedicacion
