@@ -7,6 +7,9 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 La cultura de desarrollador de software debe tener:
 
 -Respeto
+
 -Confianza
+
 -Honestidad
+
 -Dedicacion
